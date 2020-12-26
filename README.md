@@ -4,7 +4,7 @@
 Find me....for username and password
 
 # Find me on 
-[Instagram](https://www.instagram.com/shubham_g0sain/?hl=en)
+👉[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubham_g0sain/)👈
 
 
 ## screenshot
