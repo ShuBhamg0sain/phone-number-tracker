@@ -20,6 +20,10 @@ apt install python
 
 apt install python2
 
+pip2 install requests
+
+pip2 install mechanize
+
 git clone https://GitHub.com/ShuBhamg0sain/phone-number-tracker
 
 cd phone-number-tracker
@@ -27,5 +31,4 @@ cd phone-number-tracker
 Python2 tracker.py
 
 ## how to used
-python2 tracker.py number
-
+python2 tracker.py <number>
